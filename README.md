@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=939393&height=200&section=header&text=Victor%20Moak&fontSize=40&fontColor=ffffff"/>
-</p>
+# 👨🏽‍💻 Victor Moak
 
-<h1 align="center">Senior Full Stack Developer</h1>
+**`Senior Full Stack Developer`**
 
 ---
 
-## Sobre mim
 Atuo há quase 10 anos na área de tecnologia e trabalho profissionalmente com Node.js desde 2022, aprimorando o desempenho e a integração de aplicações. Em paralelo, atuo como Professor de Desenvolvimento de Sistemas. Acredito que ensinar é uma das formas mais poderosas de aprender e de deixar um legado.
 
 Também tenho experiência com CI/CD, Jenkins, TypeScript, JavaScript, bancos de dados, Docker, Redis para cache e otimização de desempenho, entre outros conhecimentos, além de experiência na construção de interfaces front-end utilizando React. 
@@ -20,11 +17,13 @@ Tenho orgulho de unir a lógica da tecnologia com a sensibilidade da arte — af
 ## 🚀 Projetos em Destaque
 
 🔷 **Deu Jogo**
-Deu Jogo é um aplicativo para organizar e acompanhar suas peladas de futebol
+Deu Jogo é um aplicativo para organizar e acompanhar suas peladas de futebol.
+
 🔗 https://github.com/VictorMoak/deu-jogo-public
 
 🔷 **RP Transportes — Site Institucional**
 Site institucional desenvolvido para a RP Transportes, com foco em apresentar serviços, área de atuação e canais de contato de forma moderna e responsiva.
+
 🔗 https://github.com/VictorMoak/rp-transportes-site-public
 
 ---
@@ -32,11 +31,11 @@ Site institucional desenvolvido para a RP Transportes, com foco em apresentar se
 ## 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,c,cpp,java"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nest,ts,docker,kubernetes,jest,js,html,css,git,github,py,c,java"/>
 </p>
 
 ---
-
+<!-- 
 ## 🏆 Destaques tecnológicos
 
 <p align="center">
@@ -45,7 +44,7 @@ Site institucional desenvolvido para a RP Transportes, com foco em apresentar se
 </p>
 
 ---
-
+-->
 ## 📊 Atividade no GitHub
 
 <p align="center">
