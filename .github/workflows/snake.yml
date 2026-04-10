@@ -14,7 +14,7 @@ jobs:
           github_user_name: VictorMoak
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=0077B5&color_dots=#ebedf0,#c6a0f6,#a855f7,#9333ea,#7e22ce
+            dist/github-contribution-grid-snake.svg?color_snake=00087A&color_dots=#eef1fb,#a3b0e0,#4d5ec0,#0f2178,#00087A
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:

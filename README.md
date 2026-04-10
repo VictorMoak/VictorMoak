@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
          title="Vamos fazer uma conexão!" /></a>
     <a href="mailto:vmoak10@gmail.com">
-        <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt=Email title="Me envie um e-mail">
+        <img src="https://img.shields.io/badge/Email-B51200?style=for-the-badge&logo=gmail&logoColor=white" alt=Email title="Me envie um e-mail">
     </a>
    </p>
    
@@ -57,16 +57,7 @@ Site institucional desenvolvido para a RP Transportes, com foco em apresentar se
 </p>
 
 ---
-<!-- 
-## 🏆 Destaques tecnológicos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCO-Front--End-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-Buscando%20Estágio-8A2BE2?style=for-the-badge"/>
-</p>
-
----
--->
 ## 📊 Atividade no GitHub
 
 <p align="center">
