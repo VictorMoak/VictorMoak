@@ -24,13 +24,18 @@
    
 ---
 
-Atuo há quase 10 anos na área de tecnologia e trabalho profissionalmente com Node.js desde 2022, aprimorando o desempenho e a integração de aplicações. Em paralelo, atuo como Professor de Desenvolvimento de Sistemas. Acredito que ensinar é uma das formas mais poderosas de aprender e de deixar um legado.
+Engenheiro de Software com quase 10 anos de experiência, especializado em Node.js e TypeScript, além de Java e Spring Boot, com foco em construção de APIs escaláveis, sistemas de alta performance e baixa latência.
 
-Também tenho experiência com CI/CD, Jenkins, TypeScript, JavaScript, bancos de dados, Docker, Redis para cache e otimização de desempenho, entre outros conhecimentos, além de experiência na construção de interfaces front-end utilizando React. 
+Experiência com arquitetura de microsserviços, caching com Redis, CI/CD, Docker, Kubernetes e práticas de DevOps. 
+Atuação em otimização de performance, integração de sistemas e melhoria de resiliência de aplicações.
 
-Sou apaixonado por tecnologia, inovação e educação — três áreas que, quando se encontram, têm o poder de transformar pessoas, negócios e realidades. 
+Vivência em liderança técnica, definição de boas práticas de código, testes automatizados e suporte a ambientes produtivos.
+Atuação como referência técnica em projetos backend, apoiando decisões de arquitetura e boas práticas de desenvolvimento.
 
-Tenho orgulho de unir a lógica da tecnologia com a sensibilidade da arte — afinal, também sou músico e designer nas horas vagas. Essa combinação me ajuda a pensar fora da caixa, encontrar soluções criativas e enxergar a tecnologia como uma forma de expressão e impacto positivo no mundo.  
+Também possuo experiência com desenvolvimento frontend em React e atuação como professor na área de desenvolvimento de sistemas.
+
+Sou apaixonado por tecnologia, inovação e educação — três áreas que, quando se encontram, têm o poder de transformar pessoas, negócios e realidades. Tenho orgulho de unir a lógica da tecnologia com a sensibilidade da arte — afinal, também sou músico e designer nas horas vagas. Essa combinação me ajuda a pensar fora da caixa, encontrar soluções criativas e enxergar a tecnologia como uma forma de expressão e impacto positivo no mundo.  
+  
 
 ---
 
@@ -53,7 +58,7 @@ Site institucional desenvolvido para a RP Transportes, com foco em apresentar se
 ## 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nest,ts,docker,kubernetes,jest,js,html,css,git,github,py,c,java"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,java,react,ts,docker,kubernetes,jest,js,html,css,git,github,py,c"/>
 </p>
 
 ---
